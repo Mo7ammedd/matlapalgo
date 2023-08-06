@@ -2,7 +2,7 @@
 
 Message encryption algorithms with MATLAB GUI
 
-<p align="center"> Version: 1.0<br> publish Date ->(7/7/2022)</p>
+
 
 # Highlights 
 
